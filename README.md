@@ -37,12 +37,12 @@
 ### 🔥 My Stats :
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiyob&layout=donut&theme=radical&hide_border=true" alt="Top Languages by Commit" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiyob&layout=pie&theme=radical&hide_border=true" alt="Top Languages by Repo" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiyob&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taiyob&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taiyob&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="taiyob's github stats" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taiyob&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
